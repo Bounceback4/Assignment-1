@@ -8482,7 +8482,7 @@ h1, h2, h3, h4, h5,
           background: #fff; }
 
 .bg-light {
-  background: #f7f6f2 !important; }
+  background: #90EE90 !important; }
 
 .bg-primary {
   background: #82ae46; }
@@ -8516,7 +8516,8 @@ h1, h2, h3, h4, h5,
   .btn.btn-primary {
     background: #82ae46;
     border: 1px solid #82ae46;
-    color: #fff; }
+    color: #fff;
+    background-color: #154734; }
     .btn.btn-primary:hover {
       border: 1px solid #82ae46;
       background: transparent;
@@ -9178,7 +9179,8 @@ textarea.form-control {
 
 .goto-here {
   width: 100%;
-  display: block; }
+  display: block;
+  background-color: #90EE90; }
 
 .about-author .desc h3 {
   font-size: 24px; }
@@ -9786,7 +9788,8 @@ textarea.form-control {
   border: 1px solid #ccc;
   font-size: 11px; }
   .tagcloud a:hover {
-    border: 1px solid #000; }
+    border: 1px solid #000;
+    background-color: #0b2e13; }
 
 .comment-form-wrap {
   clear: both; }
