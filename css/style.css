@@ -8482,7 +8482,7 @@ h1, h2, h3, h4, h5,
           background: #fff; }
 
 .bg-light {
-  background: #f7f6f2 !important; }
+  background: #90EE90 !important; }
 
 .bg-primary {
   background: #82ae46; }
@@ -9179,7 +9179,8 @@ textarea.form-control {
 
 .goto-here {
   width: 100%;
-  display: block; }
+  display: block;
+  background-color: #90EE90; }
 
 .about-author .desc h3 {
   font-size: 24px; }
